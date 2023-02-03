@@ -2,7 +2,7 @@
 Create a set of classes and an interface for managing employees at a company.  The payroll system stores employee names, ID numbers, and information for calculating the employees' weekly paycheck.  
 
 # Requirements  
-Each time a new employee is hired, an new object of the appropriate employee type is created and added to an ArrayList of ALL employees.  
+Each time a new employee is hired, a new object of the appropriate employee type is created and added to an ArrayList of ALL employees.  
 For SalariedEmployee, the constructor should look like:  
 SalariedEmployee(name, ID#, annualSalary)  
 example: SalariedEmployee("Arshad Khan", 1234, 50000)  
@@ -30,3 +30,15 @@ In Demo.main() , create several employees (some of each type) and store them in 
 Use the list to calculate the total amount the company will pay to its employees in a week.  
 
 Add another employee and perform the same payroll summary calculation.  It might make sense to create a helper method for the calculating the total weekly payroll amount.  
+
+# Git
+Be sure to commit each time you complete a different part of the assignment.  Example: "Created demo code"  
+Also commit when you fix a bug.  Example: "Fixed with weekly pay calculation"
+
+# Grading
+1 point - Interface
+2 points - parent class
+1 point - SalariedEmployee
+1 point - HourlyEmployee
+2 points - Demo
+3 points - regular commits with appropriate messages
