@@ -36,9 +36,9 @@ Be sure to commit each time you complete a different part of the assignment.  Ex
 Also commit when you fix a bug.  Example: "Fixed with weekly pay calculation"
 
 # Grading
-1 point - Interface
-2 points - parent class
-1 point - SalariedEmployee
-1 point - HourlyEmployee
-2 points - Demo
-3 points - regular commits with appropriate messages
+1 point - Interface  
+2 points - parent class  
+1 point - SalariedEmployee  
+1 point - HourlyEmployee  
+2 points - Demo  
+3 points - regular commits with appropriate messages  
